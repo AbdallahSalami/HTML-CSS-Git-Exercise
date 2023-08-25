@@ -1,1 +1,13 @@
 /* Add your own CSS code below */
+.exercise {
+  display: flex;
+}
+.countries--first {
+  flex-direction: row;
+}
+.countries--second {
+  flex-direction: column;
+}
+.countries--third {
+  flex-direction: row-reverse;
+}
