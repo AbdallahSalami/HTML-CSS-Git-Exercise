@@ -1,1 +1,30 @@
-/* Add your own CSS code below */
+.heart {
+  color: #c85308;
+}
+
+.main-nav__list {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (min-width: 767px) {
+  .site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .main-nav {
+    margin-right: 1rem;
+  }
+}
+
+.views {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.views__all {
+  margin-left: auto;
+}
