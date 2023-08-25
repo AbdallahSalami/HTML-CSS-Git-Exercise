@@ -77,7 +77,7 @@ You should see the following:
 
 ```
 * green_links
-  master
+  mastergi
   red_links
 ```
 
