@@ -1,6 +1,17 @@
 /* Try different box model properties below */
-.pages__page {
-  border: 1px solid #4491db;
-  border-radius: 4px;
-  background: #fff;
+
+* {
+  border: 1px solid red;
+}
+.site-header {
+  background-color: black;
+}
+
+.countries {
+  border: 20px solid black;
+  padding: 5px 5px 8px 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.site-footer {
+  background-color: black;
 }
